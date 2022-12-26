@@ -52,7 +52,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/datascisocial/community/blog/"
+url = "https://github.com/datascisocial/blog/"
 
 [[params.social]]
 name = "RSS"
