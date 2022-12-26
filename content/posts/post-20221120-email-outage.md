@@ -1,6 +1,6 @@
 ---
 title: "Email outage"
-date: "2022-11-19T16:49:00"
+date: "2022-11-20T08:03:00"
 description: "There was an email outage today"
 tags: [outage]
 ---
