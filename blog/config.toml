@@ -1,4 +1,4 @@
-baseURL = "https://datascisocial.github.io/community/blog"
+baseURL = "https://datascisocial.github.io/community"
 languageCode = "en-us"
 title = "datasci.social"
 theme = "hugo-ink"
