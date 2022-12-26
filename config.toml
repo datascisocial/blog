@@ -57,7 +57,7 @@ url = "https://github.com/datascisocial/blog/"
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = "/index.xml"
+url = "/blog/index.xml"
 
 [taxonomies]
    tag = "tags"
