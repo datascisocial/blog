@@ -1,6 +1,6 @@
 ---
 title: "Custom emojis added"
-date: "2022-11-19T22:00:00"
+date: "2022-11-19T22:00:00+01:00"
 description: "We added some fitting custom emojis"
 ---
 

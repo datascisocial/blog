@@ -1,6 +1,6 @@
 ---
 title: "Poll on growth"
-date: "2022-12-17T11:59:00"
+date: "2022-12-17T11:59:00+01:00"
 description: "We run a poll on the future of our instance"
 tags: [poll]
 ---

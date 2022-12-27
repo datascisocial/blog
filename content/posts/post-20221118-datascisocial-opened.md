@@ -1,6 +1,6 @@
 ---
 title: "datasci.social opened"
-date: "2022-11-17T06:50:00"
+date: "2022-11-17T06:50:00+01:00"
 description: "Opening post"
 tags: [chronicle, members]
 ---

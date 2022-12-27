@@ -1,6 +1,6 @@
 ---
 title: "One month old"
-date: "2022-12-17T16:06:00"
+date: "2022-12-17T16:06:00+01:00"
 description: "We are one month old and have 45 members"
 tags: [chronicle, members]
 ---
