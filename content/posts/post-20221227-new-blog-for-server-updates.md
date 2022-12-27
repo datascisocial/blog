@@ -1,6 +1,6 @@
 ---
 title: "New blog for server updates"
-date: "2022-12-27T18:00:00"
+date: "2022-12-27T18:00:00+01:00"
 description: "We have set up this blog and a new admin email address"
 tags: [chronicle]
 ---
