@@ -8,4 +8,4 @@ datasci.social is a Mastodon community of researchers and practitioners in human
 
 [![logodatascisocial_full.png](https://datascisocial.github.io/blog/images/logodatascisocial_full.png "datasci.social")](https://datasci.social)
 
-Many of the short posts on this blog can als be found here: [https://datasci.social/@mszll/tagged/serverinfo](https://datasci.social/@mszll/tagged/serverinfo)
+This page, [https://datascisocial.github.io/blog](https://datascisocial.github.io/blog), is the blog documenting all server updates. Many of the short posts on this blog can also be found here: [https://datasci.social/@mszll/tagged/serverinfo](https://datasci.social/@mszll/tagged/serverinfo)
