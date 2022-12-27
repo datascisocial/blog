@@ -10,16 +10,11 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "dss-blog"
-
 [params]
 	subtitle = "updates for the [mastodon server](https://datasci.social/)"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://datascisocial.github.io/blog/images/logodatascisocial_square.png"
-
-	# Content types to disable Disqus on.
-	disableDisqusTypes = ["page"]
 	
 	featherIconsCDN = true
 
