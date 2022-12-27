@@ -2,7 +2,7 @@ baseURL = "https://datascisocial.github.io/blog/"
 languageCode = "en-us"
 title = "datasci.social"
 theme = "hugo-ink"
-paginate = 5
+paginate = 6
 
 copyright = "© datasci.social"
 
