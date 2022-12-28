@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>server on datasci.social</title><link>https://datascisocial.github.io/blog/tags/server/</link><description>Recent content in server on datasci.social</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© datasci.social</copyright><lastBuildDate>Tue, 27 Dec 2022 18:00:00 +0100</lastBuildDate><atom:link href="https://datascisocial.github.io/blog/tags/server/index.xml" rel="self" type="application/rss+xml"/><item><title>New blog for server updates</title><link>https://datascisocial.github.io/blog/posts/post-20221227-new-blog-for-server-updates/</link><pubDate>Tue, 27 Dec 2022 18:00:00 +0100</pubDate><guid>https://datascisocial.github.io/blog/posts/post-20221227-new-blog-for-server-updates/</guid><description>[Post copied from https://datasci.social/@mszll/109586707593045947]
+I have finished setting up a blog about server updates for https://datasci.social here: https://datascisocial.github.io/blog/ #serverinfo #mastoadmin
+Was a great learning experience on #githubPages, #githubActions, and #Hugo 👍
+We now also have a new admin email address: datasci.social@proton.me This will be important for whenever we possibly have more admins in the future.</description></item><item><title>99.990% Uptime</title><link>https://datascisocial.github.io/blog/posts/post-20221213-99990-uptime/</link><pubDate>Tue, 13 Dec 2022 13:58:00 +0100</pubDate><guid>https://datascisocial.github.io/blog/posts/post-20221213-99990-uptime/</guid><description>[Post copied from https://datasci.social/@mszll/109506480484787426]
+Happy to report that in the first 3+ weeks of running datasci.social we had 99.990% uptime. We missed one 5-minute tick. #mastoadmin #serverinfo
+https://stats.uptimerobot.com/DllMwIoAWM</description></item><item><title>Custom emojis added</title><link>https://datascisocial.github.io/blog/posts/post-20221119-custom-emojis-added/</link><pubDate>Sat, 19 Nov 2022 22:00:00 +0100</pubDate><guid>https://datascisocial.github.io/blog/posts/post-20221119-custom-emojis-added/</guid><description>[Post copied from https://datasci.social/@mszll/109372480577572934]
+Just added these fancy custom #emojis to our server https://datasci.social
+pandas :python:
+rstats :rstats:
+pandas :pandas:
+numpy :numpy:
+geopandas :geopandas:
+osm :osm:
+If I&amp;rsquo;m missing anything vital for #DataScience, let me know! #mastoadmin #serverinfo</description></item><item><title>datasci.social opened</title><link>https://datascisocial.github.io/blog/posts/post-20221118-datascisocial-opened/</link><pubDate>Thu, 17 Nov 2022 06:50:00 +0100</pubDate><guid>https://datascisocial.github.io/blog/posts/post-20221118-datascisocial-opened/</guid><description>[Post copied from https://datasci.social/@mszll/109363241516092529]
+First post from our shiny new server https://datasci.social! Super happy it worked out 🥳 #mastoadmin #serverinfo
+The goal of this #server is to create a community of nice &amp;amp; diverse people who are researching #HumanCentric #DataScience and adjacent topics. Due to capacity/funding limits, https://datasci.social will be joinable via invites only for some time.
++Welcome to our first members @estebanmoro and @nerdsitu !</description></item></channel></rss>
