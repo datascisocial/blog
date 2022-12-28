@@ -2,7 +2,7 @@
 title: "Invite only registrations"
 date: "2022-11-17T08:18:00+01:00"
 description: "Explanation why registrations are invite only"
-tags: [registration]
+tags: [registration, community]
 ---
 
 [Post copied from [https://datasci.social/@mszll/109365042571003803](https://datasci.social/@mszll/109365042571003803)]

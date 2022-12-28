@@ -2,7 +2,7 @@
 title: "Members update, day 2"
 date: "2022-11-20T20:22:00+01:00"
 description: "Update on our members"
-tags: [members, chronicle]
+tags: [community]
 ---
 
 [Post copied from [https://datasci.social/@mszll/109377758797505850](https://datasci.social/@mszll/109377758797505850)]

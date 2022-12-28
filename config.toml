@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-	subtitle = "updates for the [mastodon server](https://datasci.social/)"
+	subtitle = "community and server updates for the [mastodon instance](https://datasci.social/)"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://datascisocial.github.io/blog/images/logodatascisocial_square.png"

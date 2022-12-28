@@ -2,6 +2,7 @@
 title: "Custom emojis added"
 date: "2022-11-19T22:00:00+01:00"
 description: "We added some fitting custom emojis"
+tags: [server]
 ---
 
 [Post copied from [https://datasci.social/@mszll/109372480577572934](https://datasci.social/@mszll/109372480577572934)]

@@ -2,7 +2,7 @@
 title: "First day members"
 date: "2022-11-19T16:49:00+01:00"
 description: "Description of our members after one day"
-tags: [chronicle, members]
+tags: [community]
 ---
 
 [Post copied from [https://datasci.social/@mszll/109371260177603579](https://datasci.social/@mszll/109371260177603579)]

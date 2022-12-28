@@ -2,7 +2,7 @@
 title: "New blog for server updates"
 date: "2022-12-27T18:00:00+01:00"
 description: "We have set up this blog and a new admin email address"
-tags: [chronicle]
+tags: [community, server]
 ---
 
 [Post copied from [https://datasci.social/@mszll/109586707593045947](https://datasci.social/@mszll/109586707593045947)]

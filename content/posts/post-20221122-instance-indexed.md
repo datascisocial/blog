@@ -2,7 +2,7 @@
 title: "Instance indexed"
 date: "2022-11-22T00:27:00+01:00"
 description: "Our instance is now indexed and has 33 members"
-tags: [chronicle, members]
+tags: [community]
 ---
 
 [Post copied from [https://datasci.social/@mszll/109384382663865252](https://datasci.social/@mszll/109384382663865252)]
